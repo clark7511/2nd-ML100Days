@@ -33,8 +33,6 @@ D7
 偵測與處理例外數值 1. 缺值或例外取代 2. 數據標準化
 
 D8
-已提交
-
 DataFrame operationData frame merge/常用的 DataFrame 操作
 1. 常見的資料操作方法 2. 資料表串接
 
