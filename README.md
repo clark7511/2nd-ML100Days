@@ -218,3 +218,52 @@ Kaggle 第一次期中考(D51~D53)
 D51~D53
 Kaggle期中考
 優惠券使用預測
+
+D54
+clustering 1 非監督式機器學習簡介
+非監督式學習簡介、應用場景
+
+D55
+clustering 2 聚類算法
+K-means
+
+D56
+K-mean 觀察 : 使用輪廓分析
+非監督模型要以特殊評估方法(而非評估函數)來衡量, 今日介紹大家了解並使用其中一種方法 : 輪廓分析
+
+D57
+clustering 3 階層分群算法
+hierarchical clustering
+
+D58
+階層分群法 觀察 : 使用 2D 樣版資料集
+非監督評估方法 : 2D樣版資料集是什麼? 如何生成與使用?
+
+D59
+dimension reduction 1 降維方法-主成份分析
+PCA
+
+D60
+PCA 觀察 : 使用手寫辨識資料集
+以較複雜的範例 : sklearn版手寫辨識資料集, 展示PCA的降維與資料解釋能力
+
+D61
+dimension reduction 2 降維方法-T-SNE
+TSNE
+
+D62
+t-sne 觀察 : 分群與流形還原
+什麼是流形還原? 除了 t-sne 之外還有那些常見的流形還原方法?
+
+D63
+神經網路介紹
+Neural Network 簡介
+
+D64
+深度學習體驗 : 模型調整與學習曲線
+介紹體驗平台 TensorFlow PlayGround，並初步了解模型的調整
+
+D65
+深度學習體驗 : 啟動函數與正規化
+在 TF PlayGround 上，體驗進階版的深度學習參數調整
+
