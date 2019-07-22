@@ -267,3 +267,93 @@ D65
 深度學習體驗 : 啟動函數與正規化
 在 TF PlayGround 上，體驗進階版的深度學習參數調整
 
+D66
+Keras 安裝與介紹
+如何安裝 Keras 套件
+
+D67
+Keras Dataset
+Keras embedded dataset的介紹與應用
+
+D68
+Keras Sequential API
+序列模型搭建網路
+
+D69
+Keras Module API
+Keras Module API的介紹與應用
+
+D70
+Multi-layer Perception多層感知
+MLP簡介
+
+D71
+損失函數
+損失函數的介紹與應用
+
+D72
+啟動函數
+啟動函數的介紹與應用
+
+D73
+梯度下降Gradient Descent
+梯度下降Gradient Descent簡介
+
+D74
+Gradient Descent 數學原理
+介紹梯度下降的基礎數學原理
+
+D75
+BackPropagation
+反向式傳播簡介
+
+D76
+優化器optimizers
+優化器optimizers簡介
+
+D77
+訓練神經網路的細節與技巧 - Validation and overfit
+檢視並了解 overfit 現象
+
+D78
+訓練神經網路前的注意事項
+資料是否經過妥善的處理？運算資源為何？超參數的設置是否正確？
+
+D79
+訓練神經網路的細節與技巧 - Learning rate effect
+比較不同 Learning rate 對訓練過程及結果的差異
+
+D80
+[練習 Day] 優化器與學習率的組合與比較
+練習時間：搭配不同的優化器與學習率進行神經網路訓練
+
+D81
+訓練神經網路的細節與技巧 - Regularization
+因應 overfit 的方法概述 - 正規化 (Regularization)
+
+D82
+訓練神經網路的細節與技巧 - Dropout
+因應 overfit 的方法概述 - 隨機缺失 (Dropout)
+
+D83
+訓練神經網路的細節與技巧 - Batch normalization
+因應 overfit 的方法概述 - 批次正規化 (Batch Normalization)
+
+D84
+[練習 Day] 正規化/機移除/批次標準化的 組合與比較
+練習時間：Hyper-parameters 大雜燴
+
+D85
+訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop
+因應 overfit 的方法概述 - 悔不當初的煞車機制 (EarlyStopping)
+
+D86
+訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model
+使用 Keras 內建的 callback 函數儲存訓練完的模型
+
+D87
+訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate
+使用 Keras 內建的 callback 函數做學習率遞減
+
+D88
+訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數
